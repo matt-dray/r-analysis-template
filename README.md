@@ -10,7 +10,7 @@ You should [read this blog post](https://www.rostrum.blog/2019/06/11/r-repo-temp
 
 Click the green 'Use this template' button from [in this repo](https://github.com/matt-dray/analysis-template) to copy it.
 
-![](https://www.rostrum.blog/post/2019-06-11-a-repo-template-for-r-analysis_files/use-this.png){width=200px}
+<img src="https://www.rostrum.blog/post/2019-06-11-a-repo-template-for-r-analysis_files/use-this.png" alt="The 'Use this template' button found in a GitHub repository template" width="200px">
 
 [You can also click here](https://github.com/matt-dray/r-analysis-template/generate) to open the page for copying the repo.
 
